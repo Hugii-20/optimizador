@@ -1,0 +1,5 @@
+- Recomendable desactivar UAC al comenzar, al finalizar con el proceso es recomendable activarlo. (Abrir Modificar UAC, bajalo hasta el fondo para quitar, y subirlo hasta arriba para activarlo)
+
+- Recomendable hacer esto una vez a la semana.
+
+- Si tu computadora va lenta, quieres jugar con fps altos y quieres liberar espacio, esta es la mejor solucion.

@@ -1,0 +1,46 @@
+
+
+
+
+
+*** ANTES DE NADA ABRE EL ARCHIVO '--- Opener ---' POR FAVOR ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+Optimizador Inicio:
+
+Pestaña general:
+Inicio selectivo con las dos primeras casillas
+Pestaña arranque:
+Tiempo de espera 15 segundos, sin arranque de gui.
+Opciones avanzadas... numero de procesadores 'el maximo'.
+
+Optimizador Disco:
+
+Selecciona tu disco y dale a optimizar, cuando termine dale a cerrar.
+
+Ajustes de rendimiento:
+
+En efectos visuales:
+Activa:
+- Mostrar el contenido de la venta mientras se arrastra.
+- Mostrar vista en miniatura en lugar de iconos.
+- Suavizar bordes para las fuentes de pantalla.
+- Mostrar el rectangulo de seleccion traslucido.
+En opciones avanzadas:
+Programas.
+En prevencion de ejecuncion de datos:
+Primera casilla.
+
+Super limpiador 2.0:
+Aceptar, eliminar archivos.
