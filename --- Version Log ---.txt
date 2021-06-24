@@ -1,0 +1,23 @@
+1.0:
+
+Lo básico
+
+1.1:
+
+Se agrega Memory Reducer 1.5
+
+1.2:
+
+Se agrega DNSJumper, y se hace más intuitivo (osea en explicación).
+
+
+1.3:
+
+Se mejora los problemas de idioma o falta de recursos (incrementan los MB).
+Se agrega esto.
+
+
+1.4:
+
+
+???
