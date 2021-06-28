@@ -31,4 +31,8 @@ Se elimina la carpeta \Prefetch del codigo, ya que, puede relantizar el sistema,
 
 1.6:
 
+Se elimina el Optimizador de Disco, ya que en un SSD (Unidad de disco solido) no se debe, como apenas gente sabe el modelo que tiene, he decidido removerlo.
+
+1.7:
+
 ???

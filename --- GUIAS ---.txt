@@ -25,10 +25,6 @@ Pestaña arranque:
 Tiempo de espera 15 segundos, sin arranque de gui.
 Opciones avanzadas... numero de procesadores 'el maximo'.
 
-Optimizador Disco:
-
-Selecciona tu disco y dale a optimizar, cuando termine dale a cerrar.
-
 Ajustes de rendimiento:
 
 En efectos visuales:
