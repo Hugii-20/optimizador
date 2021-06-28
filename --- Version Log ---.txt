@@ -20,4 +20,8 @@ Se agrega esto.
 1.4:
 
 
+Se mejora la Limpieza Profunda, ahora elimina cualquier archivo temporal (.tmp). Siempre puede consultar los codigos por si tiene alguna duda.
+
+1.5:
+
 ???

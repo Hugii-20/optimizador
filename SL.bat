@@ -7,6 +7,7 @@ PowerShell Clear-RecycleBin -Confirm:$false
 cd/
 @echo
 del *.log /a /s /q /f
+del *.tmp /a /s /q /f
 @echo off
 net stop wuauserv
 net stop UsoSvc
