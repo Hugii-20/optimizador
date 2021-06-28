@@ -9,6 +9,7 @@ Se agrega Memory Reducer 1.5
 1.2:
 
 Se agrega DNSJumper, y se hace más intuitivo (osea en explicación).
+Se cambia el código de la Limpieza Profunda.
 
 
 1.3:
@@ -23,5 +24,11 @@ Se agrega esto.
 Se mejora la Limpieza Profunda, ahora elimina cualquier archivo temporal (.tmp). Siempre puede consultar los codigos por si tiene alguna duda.
 
 1.5:
+
+Se elimina la carpeta \Prefetch del codigo, ya que, puede relantizar el sistema, y esto sirve, para optimizar.
+
+
+
+1.6:
 
 ???

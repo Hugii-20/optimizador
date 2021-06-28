@@ -1,4 +1,3 @@
-del /f /s /q "C:\Windows\Prefetch"
 del /f /s /q "C:\Users\%username%\Appdata\Local\Temp"
 del /f /s /q "C:\Windows\Temp"
 
@@ -27,5 +26,38 @@ echo *
 echo *
 echo *
 echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
+echo *
 echo Hemos terminado con la limpieza!
-pause
+
