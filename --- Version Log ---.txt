@@ -35,4 +35,5 @@ Se elimina el Optimizador de Disco, ya que en un SSD (Unidad de disco solido) no
 
 1.7:
 
-???
+Se elimina la version de 32bits de Memory Reducer 1.5 por liberar espacio en el optimizador.
+Y se agrega la carpeta \WinSxS en el codigo de la Limpieza Profunda.
