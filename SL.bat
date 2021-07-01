@@ -1,8 +1,3 @@
-del /f /s /q "C:\Users\%username%\Appdata\Local\Temp"
-del /f /s /q "C:\Windows\Temp"
-del /f /s /q "C:\Windows\WinSxS"
-
-PowerShell Clear-RecycleBin -Confirm:$false
 @echo off
 cd/
 @echo
@@ -14,4 +9,8 @@ net stop UsoSvc
 rd /s /q C:\Windows\SoftwareDistribution
 md C:\Windows\SoftwareDistribution
 ipconfig /flushdns
+del /f /s /q "C:\Users\%username%\Appdata\Local\Temp"
+del /f /s /q "C:\Windows\Temp"
+
+PowerShell Clear-RecycleBin -Confirm:$false
 
