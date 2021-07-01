@@ -1,0 +1,1 @@
+hi! my name is Hugii! this is my first optimizer in spanish (i do this is english to make more accesable to more people) so i give to you the [Virustotal report](https://www.virustotal.com/gui/file/f6849381763598788be47f06c9fefe37813e1cf3773db793d5973d2aa3251d4e/detection "Virustotal") to see this hasn't any malware in it.
