@@ -37,3 +37,8 @@ Se elimina el Optimizador de Disco, ya que en un SSD (Unidad de disco solido) no
 
 Se elimina la version de 32bits de Memory Reducer 1.5 por liberar espacio en el optimizador.
 Y se agrega la carpeta \WinSxS en el codigo de la Limpieza Profunda.
+
+1.8:
+
+Actualizados los códigos de los .reg y Memory Reducer ha sido actualizado a la versión 1.6.
+Muchos parches de seguridad, consulta los codigos para mas informacion.
